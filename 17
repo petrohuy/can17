@@ -1,0 +1,755 @@
+def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,def func1(arg1, arg2):
+    var7 = func2(arg1, arg2)
+    def func3(arg8, arg9):
+        var10 = func6()
+        var16 = var13(var7, arg8)
+        var17 = arg9 ^ arg8 ^ arg2 & var10 - arg1 ^ var7 | var7
+        result = -1170387907 + (var17 + (arg9 ^ arg1))
+        return result
+    var18 = func3(var7, arg2)
+    var22 = func10(arg1, var7)
+    var23 = (601912902 & (var18 ^ 512) ^ var18 & arg2) - 531 ^ (((var22 & arg1 | ((var7 ^ var7) - ((var7 & (-996 & (684256549 ^ 176) ^ var7 + 75)) + var22) - arg2) ^ arg1) - -1674769547) ^ 2005459422) & 285
+    var24 = 1676282725 & var18
+    result = arg2 + (1742776226 & (var24 + arg2 + 140342852 ^ (((var18 | var22) + var7 + 465 & var23 ^ 553290453) - 969489325)))
+    return result
+def func9(arg14, arg15):
+    result = arg15 & -358
+    return result
+def func8():
+    closure = [6]
+    def func7(arg11, arg12):
+        closure[0] += func9(arg11, arg12)
+        return closure[0]
+    func = func7
+    return func
+var13 = func8()
+def func6():
+    func4()
+    result = len(xrange(36))
+    func5()
+    return result
+def func5():
+    global len
+    del len
+def func4():
+    global len
+    len = lambda x : -2
+def func2(arg3, arg4):
+    var5 = 0
+    for var6 in range(15):
+        var5 += arg4 | arg3
+    return var5
+def func10(arg19, arg20):
+    def func11(acc, rest):
+        var21 = rest ^ rest - 7
+        if acc == 0:
+            return var21
+        else:
+            result = func11(acc - 1, var21)
+            return result
+    result = func11(10, 0)
+    return result
+if __name__ == "__main__":
+    print 'prog_size: 5'
+    print 'func_number: 12'
+    print 'arg_number: 25'
+    for i in xrange(25000):
+        x = 5
+        x = func1(x, i)
+        print x,
